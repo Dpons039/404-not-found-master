@@ -42,9 +42,12 @@
 
 - Where can I see the demo?
 The demo of my solution can be found at <a href="https://dpons039.github.io/404-not-found-master/">https://dpons039.github.io/404-not-found-master/</a>
+
 - What was my experience?
+The HTML layout and big part of the CSS style was rather easy, what really toke me time was the actions related to the placing and correct resizing of the main section. Since I wanted to make it able to fit any window size.
 
 - What have I learned/improved?
+Flex needs a lot of attention on height/width so that everything fits properly.
 
 <!-- - Your wisdom? :) -->
 ### Built With
