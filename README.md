@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/dpons039/404-not-found-master/blob/1c6fd8fb770407ba896571784fa244a37201e885/project-404-resize.webm)
+![screenshot](https://github.com/dpons039/404-not-found-master/raw/cb84840d29896b9e4818c56811ed3cc73dd9f29a/final-resize-animation.gif)
 
 <!-- Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering: -->
 
